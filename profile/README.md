@@ -1,12 +1,21 @@
 ## Hi there 👋
 
-<!--
+Welcome to **ReadAI Team** — we build intelligent tools that make reading and learning more accessible and efficient.
 
-**Here are some ideas to get you started:**
+### 🙋‍♀️ About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are the team behind [Aibrary.ai](https://www.aibrary.ai), building AI-powered solutions that help people read, understand, and learn from content more effectively.
+
+### 👩‍💻 Resources
+
+- **Website**: [www.aibrary.ai](https://www.aibrary.ai)
+- **Contributing**: Check out our [contribution guidelines](https://github.com/readai-team/.github/blob/main/CONTRIBUTING.md) to get involved
+- **Security**: Report vulnerabilities via our [security policy](https://github.com/readai-team/.github/blob/main/SECURITY.md)
+
+### 🌈 How to Contribute
+
+We welcome contributions from the community! Whether it's bug reports, feature requests, documentation improvements, or code contributions — every bit helps. See our [CONTRIBUTING.md](https://github.com/readai-team/.github/blob/main/CONTRIBUTING.md) for details.
+
+### 📫 Contact
+
+Have questions or want to collaborate? Reach out through our [website](https://www.aibrary.ai) or open an issue in the relevant repository.
